@@ -1,0 +1,6 @@
+{
+  "name": "OmniMail AI - Unified Inbox & AI Assistant",
+  "description": "Brings Gmail, Outlook, and work email accounts into one intelligent inbox with AI-powered drafting, tone & grammar review, thread summaries, and daily digests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
